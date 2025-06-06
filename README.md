@@ -8,7 +8,9 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshkandem07) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandemvignesh@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/vigneshkandem07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshkandem07/" height="30" width="40" /></a>
+</p>
 
 ## 💻 Tech Stack
 

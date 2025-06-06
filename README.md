@@ -7,9 +7,8 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 🔭 I’m currently working on Full-stack development using Django & NoSQL<br>👯 I’m looking to collaborate on Backend-focused projects & Real-world apps<br>🤝 I’m looking for help with optimizing APIs and scaling backend performance<br>🌱 I’m currently learning Advanced Python, REST APIs & Deployment on cloud platforms<br>💬 Ask me about Django, Python scripting, and project structuring<br>⚡ Fun fact: I can debug for hours with full patience — but one slow Wi-Fi bar and I’m ready to throw the router! 😄📶
 
 ## 🌐 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/vigneshkandem07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshkandem07/" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshkandem07) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandemvignesh@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -38,11 +37,5 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 ## 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=Vignesh-Kandem&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/vigneshkandem07/)
-- [Email](kandemvignesh@gmail.com)
-- [GitHub Profile](https://github.com/vigneshkandem)
 
 Thanks for visiting! Don't forget to ⭐ your favorite projects!

@@ -36,7 +36,7 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vignesh-Kandem&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/Vignesh-Kandem)
 
-## 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Vignesh-Kandem&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

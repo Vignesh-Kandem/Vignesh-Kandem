@@ -24,7 +24,7 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 | **Expense Tracker** | Tracks income/expenses with CSV storage and graph analytics. | Python, Matplotlib, CSV |
 | **Lucky Spin Game** | A simple Python-based casino-style luck game. | Python |
 
-> You can explore all my projects [here](https://github.com/vigneshkandem)
+> You can explore all my projects [here](https://github.com/Vignesh-Kandem?tab=repositories)
 
 ## 📊 GitHub Stats
 

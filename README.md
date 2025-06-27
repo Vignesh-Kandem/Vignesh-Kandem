@@ -27,18 +27,18 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 > You can explore all my projects [here](https://github.com/Vignesh-Kandem?tab=repositories)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Vignesh-Kandem&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vignesh-Kandem&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Kandem&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh-Kandem&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh-Kandem&theme=radical&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Kandem&theme=radical&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vignesh-Kandem&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/Vignesh-Kandem)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Vignesh-Kandem&theme=radical&no-frame=true&no-bg=true&margin-w=5)](https://github.com/Vignesh-Kandem)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=Vignesh-Kandem&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Vignesh-Kandem&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 Thanks for visiting! Don't forget to ⭐ your favorite projects!

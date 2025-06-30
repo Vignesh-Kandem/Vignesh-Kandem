@@ -9,7 +9,17 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 ## 🌐 Connect with Me  
 
 <p align="left">
-<a href="https://linkedin.com/in/vigneshkandem07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshkandem07/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vigneshkandem07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    LinkedIn
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://x.com/Vigneshkandem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" height="30" width="40" />
+    Twitter
+  </a>
 </p>
 
 ## 💻 Tech Stack

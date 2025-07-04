@@ -28,8 +28,8 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh-Kandem&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh-Kandem&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh-Kandem&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh-Kandem&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Kandem&theme=radical&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies

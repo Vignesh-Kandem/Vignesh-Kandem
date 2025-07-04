@@ -4,7 +4,7 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 ## 🔍 About Me
 
-🔭 I’m currently working on Full-stack development using Django & NoSQL<br>👯 I’m looking to collaborate on Backend-focused projects & Real-world apps<br>🤝 I’m looking for help with optimizing APIs and scaling backend performance<br>🌱 I’m currently learning Advanced Python, REST APIs & Deployment on cloud platforms<br>💬 Ask me about Django, Python scripting, and project structuring<br>⚡ Fun fact: Coding for hours? Easy. But the second that Wi-Fi drops to one bar… I lose my control like it's the final boss of my sanity! 😄📶
+🔭 I’m currently working on Full-stack development using Django & NoSQL<br>👯 I’m looking to collaborate on Backend-focused projects & Real-world apps<br>🤝 I’m looking for help with optimizing APIs and scaling backend performance<br>🌱 I’m currently learning Advanced Python, REST APIs & Deployment on cloud platforms<br>💬 Ask me about Django, Python scripting, and project structuring<br>⚡ Fun fact: Coding for hours? Easy. But the second that Wi-Fi drops to one bar… I lose my control like like I’ve never known peace.! 😄📶
 
 ## 🌐 Connect with Me  
 

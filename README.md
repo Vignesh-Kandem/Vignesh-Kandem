@@ -17,12 +17,12 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 ## 🚀 Projects
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| **Grocery Store Management** | A web app for managing grocery items, orders, and inventory. | Django, NoSQL(MongoDB), HTML, Python |
-| **Expense Tracker** | Tracks income/expenses with CSV storage and graph analytics. | Python, Matplotlib, CSV |
-| **Lucky Spin Game** | A simple Python-based casino-style luck game. | Python |
-| **MyCalculator** | A simple Java-based calculator with UI(swings). | Java |
+| Project Name            | Description                                                    | Tech Stack                         | Repository          |
+|-------------------------|----------------------------------------------------------------|-------------------------------------|---------------------|
+| **Grocery Store Management** | A web app for managing grocery items, orders, and inventory.     | Django, NoSQL(MongoDB), HTML, Python | Cartzy       |
+| **Expense Tracker**     | Tracks income/expenses with CSV storage and graph analytics.  | Python, Matplotlib, CSV             | Trackify     |
+| **Lucky Spin Game**     | A simple Python-based casino-style luck game.                 | Python                              | Casino         |
+| **MyCalculator**        | A simple Java-based calculator with UI(swings).               | Java                                | Calculator        |
 
 > You can explore all my projects [here](https://github.com/Vignesh-Kandem?tab=repositories)
 

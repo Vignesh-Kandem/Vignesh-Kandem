@@ -8,8 +8,15 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/vigneshkandem07)  
-[![X](https://img.shields.io/badge/-X-000?logo=x&logoColor=white&style=flat-square)](https://x.com/Vigneshkandem)
+<p align="left">
+  <a href="https://linkedin.com/in/vigneshkandem07">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn"/>
+  </a>
+  <br/>
+  <a href="https://x.com/Vigneshkandem">
+    <img src="https://i.imgur.com/2uQX5yw.png" width="40" title="X / Twitter"/>
+  </a>
+</p>
 
 ## 💻 Tech Arsenal
 

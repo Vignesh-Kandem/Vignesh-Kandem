@@ -14,7 +14,7 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
   </a>
   <br/>
   <a href="https://x.com/Vigneshkandem" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40" title="Twitter / X" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" title="X (Twitter)" />
   </a>
 </p>
 

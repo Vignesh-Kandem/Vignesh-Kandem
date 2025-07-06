@@ -13,8 +13,8 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn"/>
   </a>
   <br/>
-  <a href="https://x.com/Vigneshkandem">
-    <img src="https://i.imgur.com/2uQX5yw.png" width="40" title="X / Twitter"/>
+  <a href="https://x.com/Vigneshkandem" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/X_logo_2023.svg" width="40" title="X" />
   </a>
 </p>
 

@@ -9,12 +9,12 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/vigneshkandem07">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn"/>
+  <a href="https://linkedin.com/in/vigneshkandem07" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn" />
   </a>
   <br/>
   <a href="https://x.com/Vigneshkandem" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/X_logo_2023.svg" width="40" title="X" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40" title="Twitter / X" />
   </a>
 </p>
 

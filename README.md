@@ -16,6 +16,10 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
   <a href="https://x.com/Vigneshkandem" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" style="border-radius: 12px;" title="X (Twitter)" />
   </a>
+  <br/>
+  <a href="https://instagram.com/Vigneshkandem" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" style="border-radius: 12px;" title="Instagram" />
+  </a>
 </p>
 
 ## 💻 Tech Arsenal

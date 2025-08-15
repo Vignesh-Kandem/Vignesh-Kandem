@@ -35,7 +35,7 @@ Welcome to my personal GitHub space! I'm passionate about building real-world te
 | **Lucky Spin Game**     | A simple Python-based casino-style luck game.                 | Python                              | Casino         |
 | **MyCalculator**        | A simple Java-based calculator with UI(swings).               | Java                                | Calculator        |
 
-> You can explore all my projects [here](https://github.com/Vignesh-Kandem?tab=repositories)
+> You can explore all my projects with there demos [here](https://github.com/Vignesh-Kandem?tab=repositories)
 
 ## 📊 GitHub Stats
 

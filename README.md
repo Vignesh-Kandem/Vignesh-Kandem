@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub space! I'm passionate about building real-world tech solutions through code, and I'm always looking to learn and explore new areas in development.
 
-## 🔍 About Me  
+## 🔍 About Me 
 
 🔭 I’m enthusiastic about working on Full-stack development<br>👯 I’m looking to collaborate on Backend-focused projects & Real-world apps<br>🤝 I’m looking for help with optimizing APIs and scaling backend performance<br>🌱 I’m currently learning Advanced Python, REST APIs & Deployment on cloud platforms<br>💬 Ask me about Django, Python scripting, and project structuring<br>⚡ Fun fact: Errors? I fix them calmly. But my patience ends where the Wi-Fi signal drops. 😅📶
 
